@@ -1,0 +1,62 @@
+# Main options
+title-text: ""
+desktop-image: "background.png"
+desktop-color: "#000000"
+terminal-font: "Terminus Regular 14"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Boot menu
++ boot_menu {
+  left = 15%
+  top = 40%
+  width = 45%
+  height = 65%
+
+  item_font = "Ubuntu Regular 20"
+  item_color = "#cccccc"
+  icon_width = 36
+  icon_height = 36
+  item_icon_space = 20
+  item_height = 40
+  item_padding = 2
+  item_spacing = 10
+
+  selected_item_font = "Ubuntu Regular 20"
+  selected_item_color = "#ffffff"
+  selected_item_pixmap_style = "select_*.png"
+}
+
+
+# Countdown label
++ label {
+  left = 15%
+  top = 31%
+  align = "center"
+  id = "__timeout__"
+  text = "The highlighted OS will start in %d seconds"
+  color = "#cccccc"
+  font = "Ubuntu Regular 20"
+}
+
+# Corner image (This is totally not Omaru Polka's hat)
++ image {
+	top = 100%-111
+	left = 0
+   	file = "jester-hat-150x111.png"
+ }
+
++ label {
+	top = 95%
+	left = 0
+#    height = 20
+	width = 100%
+	align = "center"
+	font = "Ubuntu Regular 17"
+	color = "#cccccc"
+	text = "Use the arrow keys to highlight an option. Press enter to select it, 'e' to edit the commands or 'c' for a command-line."
+}
