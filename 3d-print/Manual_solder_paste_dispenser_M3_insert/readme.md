@@ -1,23 +1,23 @@
-Manual solder paste dispenser with M3 heat-set insert hole
-https://www.thingiverse.com/thing:6305357/
+Manual solder paste dispenser with M3 heat-set insert hole           
+https://www.thingiverse.com/thing:6305357/           
 
-https://www.youtube.com/watch?v=5vyZ-yBVnJg
-https://www.youtube.com/@MostlyBuilds
+https://www.youtube.com/watch?v=5vyZ-yBVnJg           
+https://www.youtube.com/@MostlyBuilds           
 
-Summary
+Summary           
 This is a small tweak to the original design by @bminch https://www.thingiverse.com/thing:5432693 to change the size of the heat-set insert hole diameter to fit M3 heat-set inserts: https://www.ebay.com/itm/292175924519
 
-An OpenSCAD file has been included for those who want to make further adjustments.
+An OpenSCAD file has been included for those who want to make further adjustments.           
 
-by MostlyBuilds is licensed under the Creative Commons - Attribution license.
+by MostlyBuilds is licensed under the Creative Commons - Attribution license.           
 ___________________________________________________________________________________________________________________
-Manual Solder Paste Dispenser
-https://www.thingiverse.com/thing:5432693
+Manual Solder Paste Dispenser           
+https://www.thingiverse.com/thing:5432693           
 
-https://www.youtube.com/watch?v=irI9sOFgSXA
-https://www.youtube.com/@bminch
+https://www.youtube.com/watch?v=irI9sOFgSXA           
+https://www.youtube.com/@bminch           
 
-Summary
+Summary           
 This is a simple manual solder paste dispenser designed around a 1-mL syringe with a luer lock tip.  The design was inspired by the "Spoty precision SMD micro-dot solder paste dispenser" (https://www.avdweb.nl/tech-tips/pcb/solder-paste-dispenser).
 
 Parts required in addition to the 3-D printed body:
